@@ -1,4 +1,4 @@
-# Locking Down Your Home
+# Locking Down the Home
 
 ## Purpose and scope
 
