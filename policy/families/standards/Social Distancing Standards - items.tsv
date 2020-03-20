@@ -1,13 +1,15 @@
 UUID	Subsection	Statement	Absolute Condition	Individual Condition	Audit Condition	Refs
 
 F5C992CD-0601-4717-97DB-EAE8575932FC	General	In general, maintain a distance of {{ .INDIVIDUAL_DISTANCE }} between yourself and other individuals. Even in situations where you may feel pressure or anxiety about leaving space, such as when queuing in a line, maintain that distance and understand that others are too.	ALWAYS	ALWAYS	ALWAYS	-
-7F64AAAE-9235-43BE-A105-7DA1999B0A29	General	Avoid sharing enclosed spaces with strangers. This specifically include buses, train cars, and cabs.	ALWAYS	ALWAYS	ALWAYS	-
+7F64AAAE-9235-43BE-A105-7DA1999B0A29	General	Avoid sharing enclosed spaces with strangers. This specifically include buses, train cars, cabs, and elevators. Maintain asa much space as possible when necessary.	ALWAYS	ALWAYS	ALWAYS	-
 88361E6B-33C7-448E-9D9E-621CBF427807	General	When coughing or sneezing, turn away from others, look slightly, and cough into either a disposable tissue or your raised shoulder-bicep. Do this even if others are not around to limit possible surface contamination.	ALWAYS	ALWAYS	ALWAYS	-
 CC9D3720-375C-478B-A2DC-1F7EF2260F9B	General	Avoid touching surfaces unnecessarily. If possible, carry a pen to push buttons and disposable paper towels for grasping handles.	ALWAYS	ALWAYS	ALWAYS	-
 E7F47784-4D4F-446F-8C90-6A476BCA5D7C	General	Avoid touching your face or clothes.	ALWAYS	ALWAYS	ALWAYS	-
 9D87DA4A-634F-4477-81B8-7BAF612542CC	General	While maintaining distance, nod, bow, or waive when greeting others.	ALWAYS	ALWAYS	ALWAYS	-
 BB201FDE-F662-4B70-9D92-27689113260D	General	If someone coughs or sneezes on or near you, either wash thoroughly or apply hand sanitizer to your hands and then, if necessary, your face.	ALWAYS	ALWAYS	ALWAYS	-
-E512257F-DBB2-465A-BFB6-3D5414945CBE	Generally	It is neither generally recommended or useful to wear a dust or "surgical" style mask except in certain circumstances. Refer to the [mask usage guidelines](#mask-usage-guidelines) for further information.	ALWAYS	ALWAYS	ALWAYS	-
+ECD4F6FD-EC57-42D9-922D-5413F4A8A1FC	General	Clean work surfaces before use. Whenever possible, wipe down any keyboards, screens, tables, or generally any surface you need to interact with before use.	ALWAYS	ALWAYS	ALWAYS	-
+13CE89E6-1FF3-46B4-A39A-D388EA20D199	General	Clean up after yourself. If you cough or sneeze on something, clean the surface as best you can.	ALWAYS	ALWAYS	ALWAYS	-
+E512257F-DBB2-465A-BFB6-3D5414945CBE	General	It is neither generally recommended or useful to wear a dust or "surgical" style mask except in certain circumstances. Refer to the [mask usage guidelines](#mask-usage-guidelines) for further information.	ALWAYS	ALWAYS	ALWAYS	-
 
 8C1E4CBE-C086-477B-AA1E-47989356E45F	Heightened	Individuals especially threatened by infection, or who are themselves infected should, if at all possible reach out to family, friends, community, and/or online resources to avoid leaving quarantine. For instance, rather than going to the store for food, find someone to do it for you. It is not only better for you to rest, but it is better for all of us.	ALWAYS	ALWAYS	ALWAYS	-
 242ABA35-DAE4-4785-94EC-9F816B6FCC19	Heightened	Individuals especially threatened by infection, or who are themselves infected but cannot avoid leaving quarantine, should utilize a mask according to the [mask usage guidelines](#mask-usage-guidelines).	ALWAYS	ALWAYS	ALWAYS	-
