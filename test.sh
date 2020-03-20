@@ -10,6 +10,7 @@ MY_PACKAGE='@liquid-labs/policy-home-lockdown'
 cat <<EOF > settings.sh
 # local parameters
 SCOPE_STATEMENT='COVID-19 viral outbreak'
+INDIVIDUAL_DISTANCE='6 feet (2 meters)'
 EOF
 
 cleanup() {

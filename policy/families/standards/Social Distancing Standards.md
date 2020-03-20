@@ -5,3 +5,9 @@
 These standards describe the when and how to maintain appropriate social distance during a pandemic or similar outbreak in both public and household interactions.
 
 ## Standards
+
+{{ template "families/standards/Social Distancing Standards - items" . }}
+
+## Mask usage guidelines
+
+TODO
