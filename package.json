@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Liquid-Labs/policy-home-lockdown/issues"
   },
-  "homepage": "https://github.com/Liquid-Labs/policy-home-lockdown#readme"
+  "homepage": "https://github.com/Liquid-Labs/policy-home-lockdown#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@liquid-labs/policies-model": "^1.0.0-beta.22"
+  }
 }
