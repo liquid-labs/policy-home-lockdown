@@ -6,7 +6,9 @@ Our aim is to provide comprehensive and clear guidance regarding expectations, p
 
 ## Overview
 
-The home lockdown framework is designed to provide clear guidance on the essential reasons for, expectations in, and how to implement a home lockdown protocol. To understand the reasons behind and goals of the lockdown, please refer to the [Home Lockdown Policy]({{ .families.policies.HOME_LOCKDOWN_POLICY }}) document. The standards document provide a clear enumeration on expectations. The procedures documents provide step-by-step instructions on how to implement a home lockdown.
+The home lockdown framework is designed to provide clear guidance on the essential reasons for, expectations in, and how to implement a home lockdown protocol. Because this is intended as a guide for "the majority of people in the rich world", we attempt to provide guidance on what to do and how to use this framework for individual situations while providing specific and clear instructions.
+
+To understand the reasons behind and goals of the lockdown, please refer to the [Home Lockdown Policy]({{ .families.policies.HOME_LOCKDOWN_POLICY }}) document. The standards document provide a clear enumeration on expectations. The procedures documents provide step-by-step instructions on how to implement a home lockdown.
 
 ## Documents
 
@@ -18,3 +20,5 @@ The home lockdown framework is designed to provide clear guidance on the essenti
 * [Making Essential Trips]( {{ .families.procedures.MAKING_ESSENTIAL_TRIPS }}): provides step-by-step instructions on how to make essential trips as safely as possible.
 * [Returning to the Home]( {{ .families.procedures.RETURNING_TO_THE_HOME }}): provides step-by-step instructions for how to minimize chance of bringing infection into the home.
 * [Isolating Individuals within the Household]({{ .families.procedures.ISOLATING_INDIVIDUALS_WITHIN_THE_HOUSEHOLD }}): provide a checklist of steps to prepare for isolating an individual within a household.
+
+## Guidelines for necessary work outside the home
