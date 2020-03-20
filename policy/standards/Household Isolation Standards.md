@@ -1,4 +1,4 @@
-# Family Isolation Standards
+# Household Isolation Standards
 
 ## Purpose and scope
 
