@@ -1,4 +1,12 @@
 # Making Essential Trips
 
-- use a pen
-- carry hand sanitizer and wipes
+## Purpose and scope
+
+## Procedures
+
+### Preparation
+
+1. Ensure you have the following items:
+   * A pen.
+   * Hand sanitizer.
+   * Sanitary wipes.
