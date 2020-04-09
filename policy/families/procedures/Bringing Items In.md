@@ -9,5 +9,7 @@ For groceries, packages, etc.
 
 - let mail sit for 24-48 days
 
+- when using space disenfectants and alchohol, just let dry, do NOT wipe
+
 
 Look up fruits and veggie handling
