@@ -28,3 +28,24 @@ Refer to [guidelines for when to isolate]({{ .families.standards.HOUSEHOLD_ISOLA
 - do the same with linens and linen bags
 - if you don't have a helper, prepare the outer bags before entering and then fold up after removing gloves, wash hands, then wash hands again
 - take off gloves first, then gown, then mask
+
+
+Anything is better than nothing; think it through.
+
+- wash hands before putting gloves on
+- if you don't have disposable gloves, use rubber gloves like you wold for cleaning the house
+
+Removing Gloves
+
+From [Medline.gov](https://medlineplus.gov/ency/patientinstructions/000452.htm)
+
+When you take gloves off, make sure the outsides of the gloves do not touch your bare hands. Follow these steps:
+
+Grab the top of your right glove with your left hand.
+Pull toward your fingertips. The glove will turn inside out.
+Hold onto the empty glove with your left hand.
+Put 2 right-hand fingers in the top of your left glove.
+Pull toward your fingertips until you have pulled the glove inside out and off your hand. The right glove will be inside the left glove now.
+Throw the gloves away in an approved waste container.
+Always use new gloves for each patient. Wash your hands between patients to avoid passing germs.
+
