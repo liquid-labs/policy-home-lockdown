@@ -93,9 +93,9 @@ Refer to [guidelines for when to isolate]({{ .families.standards.HOUSEHOLD_ISOLA
 12. Take the laundry basket to the washing machine or designated "exposed laundry" spot. If you have a washing machine, put the linens in start the cycle. Use hot water if possible.
 13. If possible, place the laundry basket someplace where children/pets/the unwary might mess with it and thoroughly spray or wipe it with disinfectant so that the entire surface area as wetted and let it air dry.
 14. Disinfect any surface you or anything from within the room might have touched during the cleanup process.
-   * The "dirty" portion of the counter or table, if any.
-   * The washing machine controls and outer surface that may have contacted the linens.
-   * The handle to the patients room.
+    * The "dirty" portion of the counter or table, if any.
+    * The washing machine controls and outer surface that may have contacted the linens.
+    * The handle to the patients room.
 15. Wash your hands thoroughly.
 16. Dispose of the "outer" trash bag in the standard manner.
 17. Replenish supplies in the preparation area as necessary.
