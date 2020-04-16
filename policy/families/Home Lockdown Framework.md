@@ -48,21 +48,25 @@ Airborne transmission occurs primarily when exhaled water droplets and, potentia
 There are countless online tutorials for how to produce cotton shields using old t-shirts, bandanas, and other material. One of the easiest methods that requires no sewing is:
 
 1. Fold a bandana or other square cotton cloth into a long rectangle, producing 2+ layers of fabric (a triple fold is illustrated here):
-    -------------------------------------
-   |                                     |
-   |                                     |
-   --------------------------------------- <- fold here
-   |                                     |
-   |                                     |
-   --------------------------------------- <- and here
-   |                                     |
-   |                                     |
-    -------------------------------------
+    ```
+     -------------------------------------
+    |                                     |
+    |                                     |
+    --------------------------------------- <- fold here
+    |                                     |
+    |                                     |
+    --------------------------------------- <- and here
+    |                                     |
+    |                                     |
+     -------------------------------------
+    ```
 2. Pull the rectangle of fabric through two elastic hair ties. If you don't have hair ties, rubber bands can be used, though these will tend to irritate the skin more.
-    -----|------------------------|-------
-   |     |                        |       |
-   |     |                        |       |
-    -----|------------------------|-------
+    ```
+     -----|------------------------|-------
+    |     |                        |       |
+    |     |                        |       |
+     -----|------------------------|-------
+    ```
 3. Now form a circle with rectangle of fabric and tuck one end inside the other.
 4. Bring the hair ties to either edge, placing the fabric over your noes and mouth and the ties around the ears.
 5. Adjust the fabric to produce a seal.
