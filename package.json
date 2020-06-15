@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Liquid-Labs/policy-home-lockdown#readme",
   "dependencies": {},
   "devDependencies": {
-    "@liquid-labs/policies-model": "^1.0.0-beta.22"
+    "@liquid-labs/policies-model": "^1.0.0-beta.30"
   }
 }
